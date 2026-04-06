@@ -105,7 +105,40 @@ A dimensão Processo representa o conjunto de técnicas enológicas empregadas n
 
 #### 📌 Observação
 
-É a dimensão com maior impacto na identidade do vinho e que, portsnto, é aque mais contibui para a complexidade das características organolépticas. 
+É a dimensão com maior impacto na identidade do vinho e que, portanto, é aque mais contibui para a complexidade das características organolépticas. 
 
+----
+
+### 🍇 Dimensão UVA
+#### 📌 Definição Ontológica 
+
+A dimensão Uva representa o conjunto de variedades do gênero Vitis utilizadas na composição de um vinho, constituindo sua base genética e influenciando diretamente suas características aromáticas, estruturais e evolutivas.
+Essa dimensão pode manifestar-se como uma variedade única (monovarietal) ou como uma composição de múltiplas variedades (blend), sendo esta última a forma predominante no universo dos vinhos.
+
+#### 📌 Complemento estrutural (fundamental)
+
+Para fins de representação e análise, a dimensão Uva pode ser modelada em dois níveis:
+
+Nível qualitativo (derivado): representação textual simplificada da composição das uvas (ex.: “Cabernet Sauvignon / Merlot”), utilizada para exibição e consultas operacionais.
+Nível relacional (estrutural): representação detalhada da composição, permitindo múltiplas variedades associadas a um vinho, com possibilidade de atributos como proporção, ordem de predominância e função enológica.
+
+#### 📌 Natureza
+Biológica (genética)
+Composicional (pode envolver múltiplos elementos)
+
+#### 📌 Domínio
+* Variedades do gênero Vitis (ex.: Cabernet Sauvignon, Merlot, Chardonnay, Syrah, etc.)
+* Combinações dessas variedades (blends)
+  
+#### 📌 Observação crítica (a mais importante)
+
+A dimensão Uva não deve ser tratada exclusivamente como um atributo simples, pois sua natureza composicional implica uma relação de cardinalidade múltipla. Sua simplificação para formato textual deve ser considerada uma representação derivada, e não a estrutura ontológica primária.
+
+> 🧠 PRINCÍPIO FUNDAMENTAL
+>> A identidade varietal de um vinho não está apenas na presença de uma uva, mas na combinação e interação entre as variedades que o compõem.
+
+#### 📌 Observação 
+
+A dimensão Uva representa as variedades utilizadas na composição do vinho, podendo ser monovarietal ou um blend de múltiplas uvas, cuja combinação define sua base genética e influencia suas características sensoriais.
 
 ----
