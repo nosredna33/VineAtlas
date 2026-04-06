@@ -142,3 +142,28 @@ A dimensão Uva não deve ser tratada exclusivamente como um atributo simples, p
 A dimensão Uva representa as variedades utilizadas na composição do vinho, podendo ser monovarietal ou um blend de múltiplas uvas, cuja combinação define sua base genética e influencia suas características sensoriais.
 
 ----
+
+### 🌍 Dimensão PAÍS
+#### 📌 Definição Ontológica
+
+A dimensão País representa a entidade geopolítica associada à região no pais (menor nível de agregação no drill, para identificar a origem declarada de um vinho, conforme indicado em seu rótulo, refletindo o contexto regulatório, cultural e produtivo no qual o vinho está inserido.
+
+#### 📌 Natureza
+* Geopolítica
+* Proteção comercial
+
+>💡 Trata-se de um atributo declarativo (baseada no rótulo, não necessariamente na totalidade da produção).
+
+#### 📌 Domínio
+* Países produtores de vinho (ex.: França, Itália, Espanha, Brasil, Argentina, Chile, etc.)
+  
+#### 📌 Observação estrutural
+
+Embora, do ponto de vista produtivo, um vinho possa envolver múltiplos países (por exemplo, blends internacionais, envase em local distinto da produção ou cadeias produtivas distribuídas), a cardinalidade dessa dimensão é resolvida no âmbito do rótulo, que declara uma única origem principal.
+
+#### 🔥 PRINCÍPIO IMPORTANTE
+
+O VineAtlas modela a origem do vinho com base na sua identidade comercial declarada, e não na totalidade de sua cadeia produtiva.
+
+----
+
