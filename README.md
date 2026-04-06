@@ -38,3 +38,47 @@ A dimensão Cor representa a manifestação visual do vinho, resultante da inter
 #### 📌 Observação crítica
 
 A cor não define o tipo do vinho, mas sim sua expressão fenotípica visual, constituindo uma de suas principais características organolépticas.
+
+### 🫧 Dimensão EFERVESCÊNCIA
+#### 📌 Definição Ontológica
+
+A dimensão Efervescência classifica o vinho quanto à presença e origem do dióxido de carbono (CO₂), natural ou induzido, resultante de processos fermentativos ou de carbonatação.
+
+#### 📌 Natureza
+* Físico-química
+* Processo-dependente
+
+#### 📌 Domínio
+* Tranquilo (sem CO₂ perceptível)
+* Frisante (leve presença de gás)
+* Espumante (alta pressão de CO₂)
+
+#### 📌 Observação
+
+Essa dimensão é independente da cor — separação fundamental para consistência ontológica e que também contibui para as características organolépticas.
+
+### Dimensão ESTILO
+#### 📌 Definição Ontológica
+
+A dimensão Estilo descreve o perfil sensorial gustativo do vinho, determinado pelo equilíbrio entre açúcares residuais, acidez, álcool e outros compostos dissolvidos.
+
+#### 📌 Natureza
+* Sensorial (paladar)
+* Perceptiva
+  
+#### 📌 Domínio
+* Seco
+* Meio Seco
+* Suave
+* Doce
+* Licoroso
+* Brut
+* Extra Brut
+* Demi-Sec
+  
+#### 📌 Observação
+
+O estilo é uma interpretação sensorial padronizada, não um processo e que também influencia determinantemente nas características organolépticas.
+
+
+
