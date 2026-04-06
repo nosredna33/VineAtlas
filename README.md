@@ -14,22 +14,27 @@ Incluem-se variações resultantes de práticas enológicas, tais como fortifica
 A observação estruturada dessas dimensões permite identificar padrões e agrupar vinhos com características fenotípicas semelhantes, independentemente de sua origem comercial ou rotulagem.
 Ao observar cada vinho como um diamante único — como de fato o é — cada faceta de sua personalidade (dimensão ou aspecto) possui um domínio de valores controlados, cuja combinação constitui o DNA de cada vinho catalogado.”
 
-### 🔷 1. Dimensão COR
+### 🔷 Dimensão COR
 #### 📌 Definição Ontológica
 
 A dimensão Cor representa a manifestação visual do vinho, resultante da interação entre pigmentos naturais da uva (principalmente antocianinas e flavonoides) e os processos de vinificação, especialmente o tempo de contato com as cascas.
 
+
 #### 📌 Natureza
 * Sensorial (visual)
-* Derivada de processo + matéria-prima
+* Derivada de processo e matéria-prima
+
 
 #### 📌 Domínio
 * Branco
 * Tinto
 * Rosé
 * Âmbar (Orange Wine)
-* ...
-  
+* Palhete / Clarete
+...
+
+>💡 Futuro! A lista deverá está completa para permitir hiperlinks para contagens pelo portal
+
 #### 📌 Observação crítica
 
-A cor não define o tipo de vinho, mas sim sua expressão fenotípica visual ou uma das suas características organolétpicas.
+A cor não define o tipo do vinho, mas sim sua expressão fenotípica visual, constituindo uma de suas principais características organolépticas.
