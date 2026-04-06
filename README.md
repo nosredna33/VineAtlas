@@ -19,11 +19,9 @@ Ao observar cada vinho como um diamante único — como de fato o é — cada fa
 
 A dimensão Cor representa a manifestação visual do vinho, resultante da interação entre pigmentos naturais da uva (principalmente antocianinas e flavonoides) e os processos de vinificação, especialmente o tempo de contato com as cascas.
 
-
 #### 📌 Natureza
 * Sensorial (visual)
 * Derivada de processo e matéria-prima
-
 
 #### 📌 Domínio
 * Branco
@@ -38,6 +36,8 @@ A dimensão Cor representa a manifestação visual do vinho, resultante da inter
 #### 📌 Observação crítica
 
 A cor não define o tipo do vinho, mas sim sua expressão fenotípica visual, constituindo uma de suas principais características organolépticas.
+
+----
 
 ### 🫧 Dimensão EFERVESCÊNCIA
 #### 📌 Definição Ontológica
@@ -56,6 +56,8 @@ A dimensão Efervescência classifica o vinho quanto à presença e origem do di
 #### 📌 Observação
 
 Essa dimensão é independente da cor — separação fundamental para consistência ontológica e que também contibui para as características organolépticas.
+
+----
 
 ### Dimensão ESTILO
 #### 📌 Definição Ontológica
@@ -80,5 +82,30 @@ A dimensão Estilo descreve o perfil sensorial gustativo do vinho, determinado p
 
 O estilo é uma interpretação sensorial padronizada, não um processo e que também influencia determinantemente nas características organolépticas.
 
+----
+
+### ⚙️ Dimensão PROCESSO
+#### 📌 Definição Ontológica
+
+A dimensão Processo representa o conjunto de técnicas enológicas empregadas na produção do vinho, incluindo fermentação, maceração, conservação e intervenções tecnológicas.
+
+#### 📌 Natureza
+* Técnica
+* Causal (define características finais)
+  
+#### 📌 Domínio
+* Fermentação Tradicional
+* Método Charmat
+* Método Champenoise
+* Maceração Carbônica
+* Passificação
+*Colheita Tardia
+* Solera
+* Pét-Nat
+
+#### 📌 Observação
+
+É a dimensão com maior impacto na identidade do vinho e que, portsnto, é aque mais contibui para a complexidade das características organolépticas. 
 
 
+----
