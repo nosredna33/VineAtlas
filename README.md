@@ -267,7 +267,7 @@ A dimensão Classificação atua como:
 
 “A dimensão **Guarda / Envelhecimento** representa o conjunto de condições, recipientes, materiais e práticas às quais o vinho é submetido após a fermentação alcoólica, durante seu período de maturação e evolução.
 
-Essa dimensão descreve os fatores que influenciam a transformação físico-química e sensorial do vinho ao longo do tempo, incluindo trocas gasosas, interação com madeira, autólise de leveduras e estabilização estrutural, afetando diretamente sua complexidade, textura, aroma e potencial de guarda.”
+Essa dimensão descreve os fatores que influenciam a transformação físico-química e sensorial do vinho ao longo do tempo, incluindo trocas gasosas, interação com madeira, autólise de leveduras e estabilização estrutural, afetando diretamente sua complexidade, textura, aroma e potencial de guarda, incluindo processos de micro-oxigenação e integração de compostos fenólicos."
 
 #### 📌 Natureza
 * Derivada de práticas enológicas e materiais de contato
