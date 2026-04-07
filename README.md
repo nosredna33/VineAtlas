@@ -317,11 +317,45 @@ Mesmo que modelada como uma dimensão única, ela contém múltiplos eixos:
 
 “Define os vetores de evolução do vinho após sua formação, sendo responsável por grande parte da complexidade sensorial adquirida ao longo do tempo.”
 
-#### 📌 Dimensão **CORPO / ESTRUTURA**
+---
 
-* Encorpado
+### 🍷 Dimensão CORPO / ESTRUTURA
+#### 📌 Definição Ontológica
+
+“A dimensão Corpo / Estrutura representa a percepção sensorial da densidade, peso e volume do vinho em boca, resultante da combinação de álcool, taninos, açúcares, extrato seco e acidez.
+
+Essa dimensão expressa a ‘massa sensorial’ do vinho, sendo um dos principais indicadores da sua presença gustativa e da sua capacidade de harmonização.”
+
+#### 📌 Natureza
+* Sensorial (gustativa)
+* Qualitativa ordinal (há hierarquia implícita)
+* Derivada de composição química + processo
+
+#### 📌 Domínio
 * Leve
 * Médio
+* Encorpado
+
+#### 📌 Estrutura Ontológica
+
+Diferente de outras dimensões, aqui há uma ordem natural:
+
+* Leve → Médio → Encorpado
+
+> 👉 Ou seja:
+>> Não é apenas categórica,é ordinal qualitativa.
+
+#### 📌 Observação Crítica
+* Não deve ser confundida com teor alcoólico isolado
+* Está fortemente correlacionada com:
+ * concentração de sólidos
+ * taninos (especialmente tintos)
+ * açúcar residual
+Pode variar mesmo dentro do mesmo tipo (ex.: tintos leves vs encorpados)
+
+#### 📌 Papel no DNA do Vinho
+
+“Define a presença física do vinho em boca, funcionando como um eixo fundamental de percepção sensorial e equilíbrio. Uma das características organolépticas mais importantes.”
 
 ---
 
