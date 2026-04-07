@@ -361,5 +361,112 @@ Pode variar mesmo dentro do mesmo tipo (ex.: tintos leves vs encorpados)
 
 ### 🌡️ Dimensão **CLIMA / TERROIR**
 
+#### 📌 Definição Ontológica
 
----
+“A dimensão Clima / Terroir representa o conjunto de condições ambientais, geográficas e naturais nas quais a videira é cultivada, incluindo clima, solo, relevo e fatores ecológicos locais.
+
+Essa dimensão define o contexto de origem do vinho, influenciando diretamente o desenvolvimento da uva, sua composição química e, consequentemente, a expressão sensorial final do vinho. Trata-se de uma dimensão estrutural de base natural, não replicável artificialmente, que imprime identidade territorial ao vinho.”
+
+#### 📌 Natureza
+
+* Estrutural (de origem)
++ Qualitativa (categórica e descritiva)
+* Multidimensional (composta)
+* Exógena ao processo (não controlada totalmente pelo produtor)
+  
+#### 📌 Estrutura Ontológica (subeixos)
+
+A dimensão Clima / Terroir é composta por múltiplos fatores interdependentes:
+
+🔹 1. Clima (macro e mesoclima)
+
+Define padrões de temperatura, insolação e regime hídrico.
+
+##### 📌 Exemplos:
+
+Frio
+* Temperado
+* Continental
+* Mediterrâneo
+* Marítimo
+* Quente
+
+🔹 2. Solo (composição geológica)
+
+Influência direta na drenagem, retenção hídrica e mineralidade percebida.
+
+##### 📌 Exemplos:
+
+* Calcário
+* Argiloso
+* Arenoso
+* Vulcânico
+* Xisto
+* Aluvial
+
+🔹 3. Topografia
+
+Relacionada à exposição solar e drenagem natural.
+
+##### 📌 Exemplos:
+
+* Planície
+* Encosta
+* Alta altitude
+* Vale
+* 
+🔹 4. Fatores Ambientais Específicos
+
+Elementos locais que afetam o microclima.
+
+##### 📌 Exemplos:
+
+* Proximidade do mar
+* Influência de rios
+* Amplitude térmica elevada
+* Ventos constantes
+  
+#### 📌  Domínio (forma consolidada simplificada)
+
+Para uso prático (modelo achatado):
+
+* Alta Altitude
+* Clima Continental
+* Clima Frio
+* Clima Marítimo
+* Clima Mediterrâneo
+* Clima Temperado
+* Encosta
+* Influência Marítima
+* Solo Argiloso
+* Solo Calcário
+* Solo Vulcânico
+
+#### 📌  Observação Crítica
+O terroir é não reproduzível artificialmente
+Dois vinhos com mesma uva e processo podem divergir fortemente devido ao terroir
+Trata-se de uma das dimensões mais determinantes do “DNA do vinho”
+Possui natureza N:M implícita, pois combina múltiplos fatores simultaneamente
+
+#### 📌  Implicações no Modelo de Dados
+Pode ser modelada como:
+dimensão única (simplificada)
+ou decomposta em subdimensões (clima, solo, topografia)
+Cardinalidade:
+1:N (vinho → terroir típico) no modelo simplificado
+N:M no modelo ontológico completo
+
+#### 📌  Papel no DNA do Vinho
+
+“Define a assinatura natural do vinho, sendo a base ecológica e geográfica que condiciona o potencial da uva e influencia todas as demais dimensões do seu DNA.Isto é, tem papel fundamental na estrutura organoléptica do vinho.”
+
+#### 🔥 Insight de alto nível
+
+Essa dimensão é o que permite você responder perguntas como:
+
+“Por que o mesmo varietal se comporta diferente em países distintos?”
+“Por que um Pinot Noir do Chile não é igual a um da Borgonha?”
+“Por que Zinfandel e Primitivo são geneticamente próximos, mas sensorialmente distintos?”
+
+> 👉 Porque:
+> O terroir atua como uma função de transformação da matéria-prima.
