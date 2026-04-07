@@ -363,11 +363,3 @@ Pode variar mesmo dentro do mesmo tipo (ex.: tintos leves vs encorpados)
 
 
 ---
-
-### 🧴 Dimensão **EFERVESCÊNCIA**
-
-Tranquilo
-Frisante
-Espumante
-
-💡 Isso resolve a ambiguidade da “cor espumante”
