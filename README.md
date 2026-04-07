@@ -166,4 +166,103 @@ Embora, do ponto de vista produtivo, um vinho possa envolver múltiplos países 
 O VineAtlas modela a origem do vinho com base na sua identidade comercial declarada, e não na totalidade de sua cadeia produtiva.
 
 ----
+Perfeito — vamos consolidar de forma **formal, consistente e pronta para o seu dicionário ontológico**.
+
+---
+
+### 🏷️ Dimensão CLASSIFICAÇÃO
+
+#### 📌 Definição Ontológica
+
+“A dimensão **Classificação** representa o conjunto de categorias qualitativas atribuídas ao vinho com base em critérios normativos, regulatórios, produtivos e de envelhecimento, estabelecidos por legislações oficiais, consórcios vitivinícolas ou práticas reconhecidas da enologia.
+
+Trata-se de uma dimensão qualitativa de natureza semântica composta, cujo domínio é formado por múltiplos subeixos independentes. Cada valor de classificação não descreve o vinho em si, mas sim o enquadra dentro de um sistema de regras, garantias ou práticas que influenciam sua identidade, qualidade percebida e posicionamento no mercado.”
+
+#### 📌 Natureza
+
+* Qualitativa (categórica)
+* Semântica (não numérica)
+* Composta (multi-eixo implícito)
+* Derivada de normas + processo + convenções de mercado
+
+
+#### 📌 Estrutura Ontológica
+
+A dimensão **Classificação** é composta por subdomínios independentes:
+
+##### 1. Classificação de Origem (Regulatória)
+
+Relacionada à procedência geográfica controlada.
+
+**Exemplos:**
+
+* DOC (Denominação de Origem Controlada)
+* DOCG (Denominação de Origem Controlada e Garantida)
+* AOC (Appellation d’Origine Contrôlée)
+* DOP (Denominação de Origem Protegida)
+* IGT (Indicazione Geografica Tipica)
+
+##### 2. Classificação de Envelhecimento (Temporal)
+
+Relacionada ao tempo e às condições de maturação.
+
+**Exemplos:**
+
+* Reserva
+* Gran Reserva
+* Crianza
+* Colheita Tardia
+* Vintage
+
+##### 3. Classificação Produtiva (Processual)
+
+Relacionada à forma de produção ou composição do vinho.
+
+**Exemplos:**
+
+* NV (Non-Vintage)
+* Blend
+* Single Vineyard
+* Varietal
+
+#### 📌 Domínio (exemplos consolidados)
+
+* AOC
+* Blend
+* Colheita Tardia
+* Crianza
+* DOC
+* DOCG
+* DOP
+* Gran Reserva
+* IGT
+* NV (Non Vintage)
+* Reserva
+* Single Vineyard
+* Varietal
+* Vintage
+
+#### 📌 Observação Crítica
+
+* A classificação **não descreve atributos sensoriais diretos** do vinho.
+* Um mesmo vinho pode possuir **múltiplas classificações simultaneamente** (ex.: DOC + Reserva + Vintage).
+* Os valores desta dimensão são **heterogêneos**, pois pertencem a diferentes eixos semânticos.
+* A classificação **não deve ser confundida com qualidade intrínseca**, mas sim com **garantias, regras ou convenções**.
+
+#### 📌 Implicações no Modelo de Dados
+
+* Cardinalidade: **N:M em relação ao vinho**
+* Pode ser:
+
+  * Implementada como dimensão única com atributo “tipo_classificacao”
+  * Ou decomposta em múltiplas dimensões especializadas
+
+
+#### 📌 Papel no DNA do Vinho
+
+A dimensão Classificação atua como:
+
+> “Um mecanismo de enquadramento normativo e semântico que contextualiza o vinho dentro de sistemas de regras, influenciando sua percepção, rastreabilidade e posicionamento, sem necessariamente alterar seu fenótipo sensorial.”
+
+---
 
