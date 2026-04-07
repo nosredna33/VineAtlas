@@ -165,9 +165,6 @@ Embora, do ponto de vista produtivo, um vinho possa envolver múltiplos países 
 
 O VineAtlas modela a origem do vinho com base na sua identidade comercial declarada, e não na totalidade de sua cadeia produtiva.
 
-----
-Perfeito — vamos consolidar de forma **formal, consistente e pronta para o seu dicionário ontológico**.
-
 ---
 
 ### 🏷️ Dimensão CLASSIFICAÇÃO
@@ -184,7 +181,6 @@ Trata-se de uma dimensão qualitativa de natureza semântica composta, cujo dom�
 * Semântica (não numérica)
 * Composta (multi-eixo implícito)
 * Derivada de normas + processo + convenções de mercado
-
 
 #### 📌 Estrutura Ontológica
 
@@ -266,3 +262,35 @@ A dimensão Classificação atua como:
 
 ---
 
+### 🕰️ Dimensão **GUARDA / ENVELHECIMENTO**
+
+
+#### 📌 Domínio (exemplos consolidados)
+* Barrica Nova
+* Barrica Usada
+* Carvalho Americano
+* Carvalho Francês
+* Garrafa
+* Sem Madeira
+* Sur Lie
+
+#### 📌 Dimensão **CORPO / ESTRUTURA**
+
+* Encorpado
+* Leve
+* Médio
+
+---
+
+### 🌡️ Dimensão **CLIMA / TERROIR**
+
+
+---
+
+### 🧴 Dimensão **EFERVESCÊNCIA**
+
+Tranquilo
+Frisante
+Espumante
+
+💡 Isso resolve a ambiguidade da “cor espumante”
