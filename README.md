@@ -264,6 +264,17 @@ A dimensão Classificação atua como:
 
 ### 🕰️ Dimensão **GUARDA / ENVELHECIMENTO**
 
+#### 📌 Definição Ontológica
+
+“A dimensão **Guarda / Envelhecimento** representa o conjunto de condições, recipientes, materiais e práticas às quais o vinho é submetido após a fermentação alcoólica, durante seu período de maturação e evolução.
+
+Essa dimensão descreve os fatores que influenciam a transformação físico-química e sensorial do vinho ao longo do tempo, incluindo trocas gasosas, interação com madeira, autólise de leveduras e estabilização estrutural, afetando diretamente sua complexidade, textura, aroma e potencial de guarda.”
+
+#### 📌 Natureza
+* Derivada de práticas enológicas e materiais de contato
+* Pós-fermentativa
+* Qualitativa (categórica)
+* Técnico-processual
 
 #### 📌 Domínio (exemplos consolidados)
 * Barrica Nova
@@ -273,6 +284,38 @@ A dimensão Classificação atua como:
 * Garrafa
 * Sem Madeira
 * Sur Lie
+
+#### 📌 Estrutura Ontológica (subeixos implícitos)
+
+Mesmo que modelada como uma dimensão única, ela contém múltiplos eixos:
+
+🔹 Tipo de Recipiente
+* Barrica
+* Garrafa
+
+>💡 Tanque (implícito em “Sem Madeira”)
+
+🔹 Material
+* Carvalho Francês
+* Carvalho Americano
+* Inerte (aço inox, concreto)
+
+🔹 Condição de Uso
+* Nova
+* Usada
+
+🔹 Técnica Enológica
+* Sur Lie
+
+#### 📌 Observação Crítica
+* Não representa apenas **“tempo”**, mas como o vinho evolui.
+* Dois vinhos com o mesmo tempo de guarda podem ter perfis totalmente distintos.
+* É uma dimensão com forte impacto no perfil aromático, estrutural e organoléptico da bebida.
+* Possui natureza parcialmente N:M (ex.: barrica + sur lie + garrafa).
+
+#### 📌 Papel no DNA do Vinho
+
+“Define os vetores de evolução do vinho após sua formação, sendo responsável por grande parte da complexidade sensorial adquirida ao longo do tempo.”
 
 #### 📌 Dimensão **CORPO / ESTRUTURA**
 
