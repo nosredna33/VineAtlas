@@ -99,7 +99,6 @@ A dimensão Processo representa o conjunto de técnicas enológicas empregadas n
 * Método Champenoise
 * Maceração Carbônica
 * Passificação
-*Colheita Tardia
 * Solera
 * Pét-Nat
 
@@ -146,7 +145,7 @@ A dimensão Uva representa as variedades utilizadas na composição do vinho, po
 ### 🌍 Dimensão PAÍS
 #### 📌 Definição Ontológica
 
-A dimensão País representa a entidade geopolítica associada à região no pais (menor nível de agregação no drill, para identificar a origem declarada de um vinho, conforme indicado em seu rótulo, refletindo o contexto regulatório, cultural e produtivo no qual o vinho está inserido.
+A dimensão País representa a entidade geopolítica associada à região no pais. País representa um nível alto de agregação geográfica, podendo ser detalhado em níveis inferiores como região, sub-região e denominação de origem, para identificar precisamente a origem declarada de um vinho, conforme indicado em seu rótulo, refletindo o contexto regulatório, cultural e produtivo no qual o vinho está inserido.
 
 #### 📌 Natureza
 * Geopolítica
@@ -163,7 +162,7 @@ Embora, do ponto de vista produtivo, um vinho possa envolver múltiplos países 
 
 #### 🔥 PRINCÍPIO IMPORTANTE
 
-O VineAtlas modela a origem do vinho com base na sua identidade comercial declarada, e não na totalidade de sua cadeia produtiva.
+O Vine Atlas modela a origem do vinho com base na sua identidade comercial declarada, e não na totalidade de sua cadeia produtiva.
 
 ---
 
