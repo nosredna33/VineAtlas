@@ -12,3 +12,8 @@
 | Stanford Winery & Wineyards | https://www.sanfordwinery.com/ | Site com a proposta de divulgar uma propriedade produtora de Vinhos muito interessante a proposta |
 | Become a sommelier | https://diveki.github.io/projects/wine/wine.html | Dicas e cursos para você se tornar um Sommelier |
 | Análise do mercado de vinhos europeu | https://www.reportlinker.com/clp/global/319 | Informações boas para Landpage |
+| Star Wine List | https://starwinelist.com/wine-lists/australia | É tipo um estrela Michelan das casas que servem vinhos |
+| Wine Trader | https://winetrader.com.br/ | Site especializado em consultoria para vinhos | 
+| E-Bacchus | https://glossary.wein.plus/e-bacchus | Tem quase a mesma proposta do Vine Atlas, ele pretende ser um glossário de termos relacionado a Enologia |
+
+
